@@ -1,0 +1,5 @@
+# 006V-Equipo9-AgeCare-Modelo-de-generacion-de-musica
+Proyecto AgeCare de alloxentric
+
+AgeCare es una plataforma digital de cuidado de adultos mayores orientada a dar tranquilidad a las familias que cuidan a un ser querido a distancia. La plataforma reúne en un solo lugar el estado de salud del adulto mayor —medido por un dispositivo vestible (wearable) y registrado por la persona cuidadora—, un sistema de alertas, herramientas de comunicación asistidas por inteligencia artificial y una vista propia para el adulto mayor, accesible y de voz primero, que lo mantiene conectado, acompañado y estimulado.
+La plataforma se articula como un único producto con datos compartidos del paciente y vistas diferenciadas por rol: el familiar observa el estado de salud y recibe alertas; la cuidadora opera el día a día y captura datos; el médico prescribe y ajusta el plan de medicamentos; y el adulto mayor participa activamente desde una interfaz radicalmente simple que incluye, entre otros, el módulo de creación musical «Director Musical».
